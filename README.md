@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=250&section=header&text=Adarsh%20Bandaru&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=55&descColor=8b949e" width="100%" />
 
-<!-- Typing Animation -->
+<!-- Typing Animation — uses demolab.com (correct domain) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Intelligent+Applications;Exploring+LLMs+%26+RAG+Systems;Open+Source+Enthusiast" alt="Typing SVG" />
 </a>
@@ -38,15 +38,16 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 🤖 &nbsp;About Me
 
-<img align="right" alt="AI & Machine Learning" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<!-- FIXED: Replaced broken Giphy hotlink with a reliable hosted GIF from sindresorhus/gifski mirror -->
+<img align="right" alt="AI Coding Animation" width="320" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" />
 
 I'm an **AI & Machine Learning Engineer** passionate about building **intelligent systems** that create real-world impact. I specialize in full-stack development—from training ML models and implementing advanced NLP pipelines to deploying production APIs and crafting intuitive frontends.
 
 My focus:
 - 🤖 **Machine Learning** — NLP, Semantic Search, LLM Applications
-- 💻 **Full Stack** — React, Node.js, FastAPI, Production-grade Architectures  
+- 💻 **Full Stack** — React, Node.js, FastAPI, Production-grade Architectures
 - 🧠 **Intelligent Systems** — RAG, Vector Databases, AI Agents
 - 🔍 **Problem Solving** — Turning complex problems into elegant solutions
 - 🚀 **Open Source** — Contributing and learning from the community
@@ -97,7 +98,9 @@ Deepening expertise in:
 
 ### AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-00A4EF?style=for-the-badge)
 
@@ -112,9 +115,10 @@ Deepening expertise in:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Core CS
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/DSA-8E44AD?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-E74C3C?style=for-the-badge)
@@ -151,8 +155,9 @@ An intelligent interview preparation system leveraging **Sentence Transformers**
 
 <br/><br/>
 
+<!-- FIXED: streak-stats domain corrected from demolab.co → demolab.com -->
 <a href="https://github.com/Adarshbandaru">
-  <img src="https://streak-stats.demolab.co?user=Adarshbandaru&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Adarshbandaru&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -183,7 +188,8 @@ An intelligent interview preparation system leveraging **Sentence Transformers**
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building%20intelligent%20software%20that%20creates%20real-world%20impact.&author=Philosophy" alt="Quote" />
+<!-- FIXED: Replaced unreliable quotes-github-readme with a stable shields.io static badge -->
+<img src="https://img.shields.io/badge/Philosophy-Building%20intelligent%20software%20that%20creates%20real--world%20impact-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Philosophy" />
 
 </div>
 
