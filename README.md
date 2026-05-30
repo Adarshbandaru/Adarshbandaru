@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20👋%20I'm%20Adarsh%20Bandaru&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=280&amp;section=header&amp;text=Hi%20%F0%9F%91%8B%20I'm%20Adarsh%20Bandaru&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&amp;descSize=22&amp;descAlignY=58&amp;descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Applications+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" /></a>
@@ -21,15 +21,12 @@
 
 <img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm a passionate **AI & Machine Learning Engineer** and **Full Stack Developer** currently pursuing **B.Tech CSE (AI & ML)** at **Lovely Professional University** with a CGPA of **7.46**.
+I build **intelligent systems** and **full stack applications** that solve real-world problems. From training ML models to deploying production APIs — I love turning ideas into working software.
 
-- 🤖 Specializing in **Artificial Intelligence & Machine Learning** — building intelligent systems that solve real-world problems  
-- 💻 Experienced in **Full Stack Development** — crafting end-to-end web applications with modern frameworks  
-- 🧠 Passionate about **NLP, Semantic Search & Deep Learning** — pushing the boundaries of what's possible with AI  
-- 🏆 Solved **100+ DSA Problems** — sharpening algorithmic thinking and problem-solving skills  
-- 🌱 Currently exploring **Large Language Models, Vector Databases & AI Agents**  
-- 🤝 Open to collaborating on **AI/ML projects** and **open-source contributions**  
-- ⚡ Fun fact: I believe the best code is the one that teaches machines to think!
+- 🤖 AI/ML — **NLP, Semantic Search, LLMs**
+- 💻 Full Stack — **React, Node.js, FastAPI**
+- 🧠 Currently exploring **AI Agents & Vector Databases**
+- 🤝 Open to **collaborations & open-source**
 
 <br clear="both"/>
 
@@ -48,11 +45,9 @@ I'm a passionate **AI & Machine Learning Engineer** and **Full Stack Developer**
 
 ### 🤖 AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -276,6 +271,6 @@ A comprehensive sports management platform enabling seamless event registration,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
