@@ -1,25 +1,46 @@
 <div align="center">
 
-<!-- Hero Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=280&amp;section=header&amp;text=Hi%20%F0%9F%91%8B%20I'm%20Adarsh%20Bandaru&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&amp;descSize=22&amp;descAlignY=58&amp;descAlign=50" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=250&section=header&text=Adarsh%20Bandaru&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=55&descColor=8b949e" width="100%" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Applications+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" /></a>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A7%A0+Building+Intelligent+Applications;%F0%9F%8C%8D+Open+Source+Enthusiast;%F0%9F%93%9A+Always+Learning+New+Technologies" alt="Typing SVG" />
+</a>
 
-<!-- Profile Badges -->
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adarshbandaru&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Adarshbandaru?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github)](https://github.com/Adarshbandaru?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Adarshbandaru?label=Stars&style=for-the-badge&color=daa520&labelColor=b8860b&logo=github)](https://github.com/Adarshbandaru?tab=repositories)
+<!-- Profile Badges -->
+<a href="https://github.com/Adarshbandaru">
+  <img src="https://komarev.com/ghpvc/?username=Adarshbandaru&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+</a>
+&nbsp;
+<a href="https://github.com/Adarshbandaru?tab=followers">
+  <img src="https://img.shields.io/github/followers/Adarshbandaru?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/Adarshbandaru?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Adarshbandaru?label=Stars&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Stars" />
+</a>
 
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> &nbsp;About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 I build **intelligent systems** and **full stack applications** that solve real-world problems. From training ML models to deploying production APIs — I love turning ideas into working software.
 
@@ -32,50 +53,100 @@ I build **intelligent systems** and **full stack applications** that solve real-
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 📚 Core CS Subjects
-![DBMS](https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=abstract&logoColor=white)
-![OS](https://img.shields.io/badge/Operating%20Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br/><b>Python</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br/><b>C++</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br/><b>JavaScript</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br/><b>Java</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br/><b>C</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br/><b>React</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br/><b>Node.js</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br/><b>Express.js</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br/><b>FastAPI</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br/><b>Tailwind CSS</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br/><b>MongoDB</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br/><b>Firebase</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="ML" />
+<br/><b>Machine Learning</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+<br/><b>Scikit-learn</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br/><b>HTML5</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br/><b>CSS3</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br/><b>Git</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br/><b>GitHub</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br/><b>VS Code</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br/><b>Postman</b>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -83,53 +154,40 @@ I build **intelligent systems** and **full stack applications** that solve real-
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Adarshbandaru">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarshbandaru&repo=Adarshbandaru&theme=tokyonight&border_color=58A6FF&border_radius=10" alt="Repo Card" />
-</a>
-
-</div>
-
-<br/>
-
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🧠 PrepGenius AI
-<p><em>AI-Powered Interview Preparation Platform</em></p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> PrepGenius AI
 
-An intelligent interview preparation system that leverages **Sentence Transformers** and **Cosine Similarity** for semantic answer evaluation. Integrated with **Groq LLM** for dynamic question generation and real-time feedback.
+> *AI-Powered Interview Preparation Platform*
 
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+An intelligent interview prep system using **Sentence Transformers** & **Cosine Similarity** for semantic answer evaluation, integrated with **Groq LLM** for dynamic Q&A.
 
-**Key Features:**
-- 🎯 Semantic answer evaluation using NLP
-- 🤖 Groq LLM integration for dynamic Q&A
-- 📊 Performance analytics & tracking
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mongodb" height="30" />
+</p>
+
+**Highlights:**
+- 🎯 Semantic answer evaluation via NLP
+- 🤖 Groq LLM for dynamic question generation
 - 🔍 FAISS-powered vector similarity search
+- 📊 Real-time performance analytics
 
 </td>
 <td width="50%">
 
-### 🏟️ Sports Management System
-<p><em>Full Stack Event Registration Platform</em></p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25" /> Sports Management System
 
-A comprehensive sports management platform enabling seamless event registration, team management, and real-time updates. Features robust authentication and RESTful API architecture.
+> *Full Stack Event Registration Platform*
 
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+A comprehensive sports management platform with seamless event registration, team management, and robust authentication with RESTful APIs.
 
-**Key Features:**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="30" />
+</p>
+
+**Highlights:**
 - 📋 Dynamic event registration system
 - 👥 Team creation & management
 - 🔐 Secure JWT authentication
@@ -146,15 +204,15 @@ A comprehensive sports management platform enabling seamless event registration,
 <div align="center">
 
 <a href="https://github.com/Adarshbandaru">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarshbandaru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=58A6FF&border_radius=10&hide_border=false" alt="Adarsh's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshbandaru&layout=compact&langs_count=8&theme=tokyonight&border_color=58A6FF&border_radius=10&hide_border=false" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarshbandaru&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshbandaru&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
-<!-- GitHub Streak -->
 <a href="https://github.com/Adarshbandaru">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshbandaru&theme=tokyonight&border=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Adarshbandaru&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -165,7 +223,7 @@ A comprehensive sports management platform enabling seamless event registration,
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adarshbandaru&theme=onedark&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Adarshbandaru&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies" />
 
 </div>
 
@@ -175,7 +233,7 @@ A comprehensive sports management platform enabling seamless event registration,
 
 <div align="center">
 
-[![Adarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarshbandaru&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshbandaru&theme=github-compact&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -185,38 +243,10 @@ A comprehensive sports management platform enabling seamless event registration,
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/100+-DSA%20Problems%20Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
-<br/><br/>
-<strong>Problem Solver</strong>
-<br/>
-<sub>Solved 100+ DSA problems across multiple platforms</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Hackathon-Participant-blueviolet?style=for-the-badge&logo=devpost&logoColor=white" alt="Hackathon"/>
-<br/><br/>
-<strong>Hackathon Warrior</strong>
-<br/>
-<sub>Participated in competitive hackathons</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AI%2FML-Projects%20Built-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-<br/><br/>
-<strong>AI/ML Builder</strong>
-<br/>
-<sub>Built production-grade AI/ML applications</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Full%20Stack-Projects%20Developed-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Full Stack"/>
-<br/><br/>
-<strong>Full Stack Developer</strong>
-<br/>
-<sub>Developed end-to-end web applications</sub>
-</td>
-</tr>
-</table>
+| <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" /> | <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b0c-8f7c-46f58c51a5ac.gif" width="80" /> | <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" /> | <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" /> |
+|:---:|:---:|:---:|:---:|
+| **100+ DSA Problems** | **Hackathon Participant** | **AI/ML Projects Built** | **Full Stack Apps** |
+| Solved across platforms | Competitive builder | Production-grade AI | End-to-end web apps |
 
 </div>
 
@@ -226,9 +256,17 @@ A comprehensive sports management platform enabling seamless event registration,
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshbandaru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-bandaru-047466294/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adarsh_bandaru/)
+<a href="https://github.com/Adarshbandaru">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/adarsh-bandaru-047466294/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/adarsh_bandaru/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
@@ -238,12 +276,7 @@ A comprehensive sports management platform enabling seamless event registration,
 
 <div align="center">
 
-> *"The best way to predict the future is to invent it — especially with AI."*  
-> — Inspired by Alan Kay
-
-<br/>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Artificial+Intelligence+is+the+new+electricity.+It+will+transform+every+industry+and+create+huge+economic+value.&author=Andrew+Ng)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it%20%E2%80%94%20especially%20with%20AI.&author=Inspired%20by%20Alan%20Kay" alt="Quote" />
 
 </div>
 
@@ -255,11 +288,11 @@ A comprehensive sports management platform enabling seamless event registration,
 
 | 🧩 | Fun Fact |
 |:---:|:---|
-| 🤖 | I taught machines to evaluate interview answers — and they grade harder than my professors! |
-| ☕ | My debugging fuel ratio: **60% coffee**, **30% Stack Overflow**, **10% pure determination** |
-| 🧠 | I find vector embeddings and cosine similarity more fascinating than most Netflix shows |
-| 🚀 | I've built more APIs than the number of pizzas I've eaten (and that's saying something!) |
-| 🌍 | I believe every real-world problem has a solution — it just needs the right algorithm |
+| 🤖 | I taught machines to evaluate interview answers — they grade harder than my professors! |
+| ☕ | Debugging fuel: **60% coffee**, **30% Stack Overflow**, **10% pure determination** |
+| 🧠 | I find vector embeddings more fascinating than most Netflix shows |
+| 🚀 | Built more APIs than pizzas I've eaten — and that's saying something! |
+| 🌍 | Every real-world problem has a solution — it just needs the right algorithm |
 
 </div>
 
@@ -271,6 +304,6 @@ A comprehensive sports management platform enabling seamless event registration,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
 
 </div>
