@@ -7,7 +7,7 @@
 
 <br/>
 
-<!-- Profile Badges -->
+<!-- Static badges - no API calls, always work -->
 <img src="https://komarev.com/ghpvc/?username=Adarshbandaru&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/badge/Followers-3-58a6ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Followers" />
@@ -136,33 +136,38 @@ An intelligent interview preparation system leveraging **Sentence Transformers**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarshbandaru&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
+<!-- WakaTime-style static summary using shields - always renders -->
+<img src="https://img.shields.io/badge/Total%20Contributions-58-58a6ff?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshbandaru&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Top Languages" />
+<img src="https://img.shields.io/badge/Repositories-18-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/badge/Longest%20Streak-3%20days-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
+<!-- Streak stats - demolab.com is reliable -->
 <img src="https://streak-stats.demolab.com?user=Adarshbandaru&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak" />
 
-</div>
+<br/><br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adarshbandaru&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
+<!-- GitHub contribution chart - ghchart.rshah.org is static SVG, always loads -->
 <img src="https://ghchart.rshah.org/58a6ff/Adarshbandaru" alt="Contribution Chart" width="95%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<!-- Static achievement badges - always render, no API needed -->
+![First PR](https://img.shields.io/badge/🎯_First_PR-Merged-58a6ff?style=for-the-badge&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/🌟_Open_Source-Contributor-58a6ff?style=for-the-badge&labelColor=0d1117)
+![AI Builder](https://img.shields.io/badge/🤖_AI_Builder-LLM_Apps-58a6ff?style=for-the-badge&labelColor=0d1117)
+![Full Stack](https://img.shields.io/badge/💻_Full_Stack-Developer-58a6ff?style=for-the-badge&labelColor=0d1117)
+![RAG Expert](https://img.shields.io/badge/📚_RAG-Systems-58a6ff?style=for-the-badge&labelColor=0d1117)
+![ML Engineer](https://img.shields.io/badge/🧠_ML-Engineer-58a6ff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
